@@ -1,6 +1,6 @@
 ## Profile
 
-![img1](https://avatars.githubusercontent.com/u/16659029?s=460&u=ff55d9711ecea357a02339206ba46cf67b067130&v=4){: width="30%" height="30%"}
+![img1](https://avatars.githubusercontent.com/u/16659029?s=460&u=ff55d9711ecea357a02339206ba46cf67b067130&v=4)
 
 ### Sangwook Kang
 - Machine Learning Engineer, Tech Leader @AiRS,Naver since 2015.
@@ -41,7 +41,7 @@
 * News Recommendation Modeling @LINE NEWS(2019-Present)
 * Search Keyword Recommendation Data Analysis&Modeling @LINE NEWS(2020-Present)
 * Project Manager @LINE TODAY News Recommendation(2018-Present)
-  - http://bitly.kr/xxqr7xBm
-  - http://bitly.kr/GkoryDj
+  - http://asq.kr/xxqr7xBm
+  - http://asq.kr/GkoryDj
 * Part Project Manager @LINE JAPAN News Recommendation(2019-Present)
-  - http://bitly.kr/4LB8Vo1 
+  - http://asq.kr/4LB8Vo1 
