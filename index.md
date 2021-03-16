@@ -4,7 +4,7 @@
 
 ### Sangwook Kang
 - Machine Learning Engineer
-- Tech Leader @AiRS,Naver
+- Tech Lead @AiRS,Naver
 - News&Contents Recommendation Modeling / Project Managing / Data Analysis / Local&Global Services
 
 
